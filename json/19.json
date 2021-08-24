@@ -1,0 +1,20 @@
+{
+    "description": "欢迎购买这件装备",
+    "external_url": "https://tyler-franklin.github.io/metadata/",
+    "image": "https://tyler-franklin.github.io/metadata/images/19.png",
+    "name": "破天冥斧",
+    "attributes": [
+        {
+            "trait_type": "攻击力",
+            "value": "33-39"
+        },
+        {
+            "trait_type": "稀有度",
+            "value": "史诗"
+        },
+        {
+            "trait_type": "价值",
+            "value": "7500-Gold"
+        }
+    ]
+}

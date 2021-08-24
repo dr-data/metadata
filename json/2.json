@@ -1,0 +1,20 @@
+{
+    "description": "点击购买这件装备",
+    "external_url": "https://tyler-franklin.github.io/metadata/",
+    "image": "https://tyler-franklin.github.io/metadata/images/2.png",
+    "name": "战狂宝刀",
+    "attributes": [
+        {
+            "trait_type": "攻击力",
+            "value": "11-15"
+        },
+        {
+            "trait_type": "稀有度",
+            "value": "史诗"
+        },
+        {
+            "trait_type": "价值",
+            "value": "6500-Gold"
+        }
+    ]
+}
