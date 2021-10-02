@@ -1,0 +1,20 @@
+{
+    "description": "NFT",
+    "external_url": "https://tyler-franklin.github.io/metadata/nft",
+    "image": "https://tyler-franklin.github.io/metadata/nft/images/1.mp4",
+    "name": "3D lovely doll",
+    "attributes": [
+        {
+            "trait_type": "DNA",
+            "value": "da24cd6e06e28f"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Value",
+            "value": "9500"
+        }
+    ]
+}
