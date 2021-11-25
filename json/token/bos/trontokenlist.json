@@ -1,6 +1,6 @@
 {
  "name": "TokenListExample",
- "logoURI": "https://coin.top/production/logo/usdj.png",
+ "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png",
  "timestamp": 1610339,
  "tokens": [{
  "chainId": 1,
@@ -8,7 +8,7 @@
  "name": "BOS Coin", 
  "symbol": "BOS",
  "decimals": 18, 
- "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+ "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png"
  },
  {
  "chainId": 1,
@@ -16,7 +16,7 @@
  "name": "USDJ",
  "symbol": "USDJ",
  "decimals": 18,
- "logoURI": "https://coin.top/production/logo/usdj.png"
+ "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png"
  }
  ],
  "version": {
