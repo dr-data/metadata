@@ -1,27 +1,20 @@
 {
- "name": "BOSTokenList",
- "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png",
- "timestamp": 1637866059000,
- "tokens": [{
- "chainId": 1,
- "address": "TNrT4GC3cniaozERR7N7piQDmtxwdSwqNq",
- "name": "BOS Coin", 
- "symbol": "BOS",
- "decimals": 18, 
- "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png"
- },
- {
- "chainId": 1,
- "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
- "name": "USDJ",
- "symbol": "USDJ",
- "decimals": 18,
- "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png"
- }
- ],
- "version": {
- "major": 1,
- "minor": 0,
- "patch": 0
- }
+    "name": "BOSTokenList",
+    "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png",
+    "timestamp": 1639805178000,
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "TGjaL8RvRALfmjzN3veJW41dWQU1HgRaVQ",
+            "name": "BOS Coin",
+            "symbol": "BOS",
+            "decimals": 18,
+            "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
 }
