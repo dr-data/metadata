@@ -21,8 +21,8 @@
     "logoURI": "https://tyler-franklin.github.io/metadata/json/token/bos/BOS.eacd757c.png",
     "version": {
         "patch": 1,
-        "major": 0,
-        "minor": 0
+        "major": 1,
+        "minor": 1
     },
-    "timestamp": 1641537981000
+    "timestamp": 1641538981000
 }
