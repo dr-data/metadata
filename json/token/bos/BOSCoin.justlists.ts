@@ -3,7 +3,7 @@
     "tokens": [
        {
             "chainId": 1,
-            "address": "TPeG4c7ure6cybQsRMC3JzaGJxRmWWxjgf",
+            "address": "TAVvpPJxcizhauJuwgHQnDKDbjFYAGKseC",
             "name": "BOS Coin",
             "symbol": "BOS",
             "decimals": 18,
@@ -133,8 +133,8 @@
     "logoURI": "https://admin.aom88.top/favicon.ico",
     "version": {
         "patch": 1,
-        "major": 1,
+        "major": 2,
         "minor": 1
     },
-    "timestamp": 1640933689000
+    "timestamp": 1641654491000
 }
